@@ -1,1 +1,1 @@
-**Tape Reader** was developed in 2025 by Jason K. Adhinarta, Michael Lin, and Donglai Wei (Department of Computer Science, Boston College), in collaboration with the Changyang Linghu lab (University of Michigan, Ann Arbor).
+**Tape Reader** (v1.0) was developed in 2025 by Jason K. Adhinarta, Michael Lin, and Donglai Wei (Department of Computer Science, Boston College), in collaboration with the Changyang Linghu lab (University of Michigan, Ann Arbor).
