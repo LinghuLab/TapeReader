@@ -76,4 +76,4 @@ https://github.com/user-attachments/assets/7af5ddc0-1f69-4aa0-b5bc-182c2ec7a74e
 ## Contribution
 **Tape Reader** (v1.0) was developed in 2025 by Jason K. Adhinarta, Michael Lin, and Donglai Wei (Department of Computer Science, Boston College), in collaboration with the Changyang Linghu lab (University of Michigan, Ann Arbor).
 
-Citation: Zheng, L., Shi, D., Yan, Y. et al. Scalable and multiplexed recorders of gene regulation dynamics across weeks. Nature (2026). https://doi.org/10.1038/s41586-026-10156-9
+Citation: Zheng, L., Shi, D., Yan, Y. et al. Scalable and multiplexed recorders of gene regulation dynamics across weeks. _Nature_ (2026). https://doi.org/10.1038/s41586-026-10156-9
